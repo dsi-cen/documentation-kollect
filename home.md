@@ -5,7 +5,7 @@
 
 
 # Guide d'utilisation rapide
-[Vous retrouverez ici un guide d'utilisation rapide](guide-demarrage/guide) : comment s'inscrire, saisir une observation et consulter les cartes de synthèses.
+[Vous retrouverez ici un guide d'utilisation rapide](guide) : comment s'inscrire, saisir une observation et consulter les cartes de synthèses.
 
 # Documentation détaillées des menus
 
