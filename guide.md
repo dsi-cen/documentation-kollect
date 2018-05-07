@@ -11,7 +11,7 @@ Remplir le formulaire d'inscription, accepter les conditions d'utilisation puis 
 Après avoir confirmé votre inscription, vous pouvez accéder à de nouvelles partie du site, non-visible en tant que simple visiteur. Vous pouvez dès à présent saisir une observation. 
 
 ## Saisir une donnée 
-Maintenant que l'inscription est effective, nous pouvons saisir une observation. Naviguez vers le module de saisie grâce au menu à gauche **Saisie**. 
+Maintenant que l'inscription est effective, nous pouvons saisir une observation. Naviguez vers le module de saisie grâce au menu à gauche **Saisie**.  ![Firefox 2018 05 07 13 56 57](/uploads/firefox-2018-05-07-13-56-57.png "Firefox 2018 05 07 13 56 57")
 
 Un écran apparait pour saisir la localisation de notre observation (ou groupe d'observations si l'on a observé plusieurs espèces à un même endroit). On peut accéder directement à une commune via le champ **Centrer sur une commune**, une liste déroulante propose les communes disponibles avec le département entre parenthèse pour éviter les problème de commune homonymes. Une fois que l'affichage est centré sur la commune demandée, on peut point sur la carte le lieux de l'observation, les coordonnées GPS sont automatiquement calculées. 
 
