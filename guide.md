@@ -73,3 +73,11 @@ Le bouton **Voir les observation** permet d'afficher les résultats de la recher
 Il est également possible d'exporter le résultat de sa recherche via le bouton **Exporter**. A l'heure actuelle, uniquement l'export standard fonctionne. Il permet néanmoins de récupérer sous format tableur ou CSV l'ensemble des informations. via la liste déroulante **Choix des champs à exporter**, il est possible de personnaliser son export en sélectionnant les informations à faire apparaitre ou non. 
 
 ![Firefox 2018 05 07 15 47 04](/uploads/firefox-2018-05-07-15-47-04.png "Firefox 2018 05 07 15 47 04")
+
+## Cartographie
+
+L'onglet **Cartographie** dans le menu de gauche permet d'accéder à la synthèse cartographique des observations. ![Firefox 2018 05 07 16 01 33](/uploads/firefox-2018-05-07-16-01-33.png "Firefox 2018 05 07 16 01 33")
+
+Sur la gauche sont listés les observatoires disponibles. En sélectionnant un observatoire, puis une espèce (sont listé uniquement les espèces déjà observées), les points correspondants aux observations apparaissent sur la carte. Il est possible de sélectionner jusqu'à trois espèces (pouvant être d'observatoires différents) afin d'afficher simultanément leur localisation.
+
+![Firefox 2018 05 07 16 01 16](/uploads/firefox-2018-05-07-16-01-16.png "Firefox 2018 05 07 16 01 16")
