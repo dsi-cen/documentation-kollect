@@ -81,3 +81,11 @@ L'onglet **Cartographie** dans le menu de gauche permet d'accéder à la synthè
 Sur la gauche sont listés les observatoires disponibles. En sélectionnant un observatoire, puis une espèce (sont listé uniquement les espèces déjà observées), les points correspondants aux observations apparaissent sur la carte. Il est possible de sélectionner jusqu'à trois espèces (pouvant être d'observatoires différents) afin d'afficher simultanément leur localisation.
 
 ![Firefox 2018 05 07 16 01 16](/uploads/firefox-2018-05-07-16-01-16.png "Firefox 2018 05 07 16 01 16")
+
+## Bilan
+L'onglet **Bilan** donne un aperçu général des informations contenues dans Kollect. ![Firefox 2018 05 07 16 17 35](/uploads/firefox-2018-05-07-16-17-35.png "Firefox 2018 05 07 16 17 35")
+
+Le bilan des connaissances fait la synthèse du nombre d'espèces par département ou par maille Lambert93 10km par 10km.
+
+![Firefox 2018 05 07 16 18 21](/uploads/firefox-2018-05-07-16-18-21.png "Firefox 2018 05 07 16 18 21")
+
