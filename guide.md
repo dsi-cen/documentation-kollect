@@ -72,4 +72,4 @@ Le bouton **Voir les observation** permet d'afficher les résultats de la recher
 
 Il est également possible d'exporter le résultat de sa recherche via le bouton **Exporter**. A l'heure actuelle, uniquement l'export standard fonctionne. Il permet néanmoins de récupérer sous format tableur ou CSV l'ensemble des informations. via la liste déroulante **Choix des champs à exporter**, il est possible de personnaliser son export en sélectionnant les informations à faire apparaitre ou non. 
 
-
+![Firefox 2018 05 07 15 47 04](/uploads/firefox-2018-05-07-15-47-04.png "Firefox 2018 05 07 15 47 04")
