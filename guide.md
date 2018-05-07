@@ -6,12 +6,12 @@ Cliquer sur l'icone en haut à droite de la page d'accueil puis **S'inscrire sur
 
 ![Firefox 2018 04 17 13 49 02](/uploads/firefox-2018-04-17-13-49-02.png "Firefox 2018 04 17 13 49 02")
 
-Remplir le formulaire d'inscription, accepter les conditions d'utilisation puis valider. Un email sera alors envoyé avec un lien pour confirmer votre inscription. Vérfier les SPAM car il est possible que l'email soit considéré comme tel par votre fournisseur emaiL. 
+Remplir le formulaire d'inscription, accepter les conditions d'utilisation puis valider. Un email sera alors envoyé avec un lien pour confirmer votre inscription. Vérfier les SPAM car il est possible que l'email soit considéré comme tel par votre fournisseur email. 
 
 Après avoir confirmé votre inscription, vous pouvez accéder à de nouvelles partie du site, non-visible en tant que simple visiteur. Vous pouvez dès à présent saisir une observation. 
 
 ## Saisir une donnée 
-Maintenant que l'inscription est effective, nous pouvons saisir une observation. Naviguez vers le module de saisie grâce au menu à gauche **Saisie**.
+Maintenant que l'inscription est effective, nous pouvons saisir une observation. Naviguez vers le module de saisie grâce au menu à gauche **Saisie**. 
 
 Un écran apparait pour saisir la localisation de notre observation (ou groupe d'observations si l'on a observé plusieurs espèces à un même endroit). On peut accéder directement à une commune via le champ **Centrer sur une commune**, une liste déroulante propose les communes disponibles avec le département entre parenthèse pour éviter les problème de commune homonymes. Une fois que l'affichage est centré sur la commune demandée, on peut point sur la carte le lieux de l'observation, les coordonnées GPS sont automatiquement calculées. 
 
@@ -24,12 +24,7 @@ Il est également nécessaire de renseigner la date de l'observation, qui peut �
 
 Une fois la localisation et les information générales renseignées, nous pouvons passer à la saisie des taxons en cliquant sur **Saisir les espèces observées**.
 
-- Nous devons dans un premier temps sélectionner l'observatoire adéquat pour notre observation grâce aux pictogrammes en haut de la fenêtre : **Mammifère** *par exemple*.
-- Puis nous sélectionnons le taxon soit avec son nom latin, soit avec son nom vernaculaire. Une liste de choix est dynamiquement proposée en fonction de votre recherche. 
-- Après avoir choisi le taxon, nous renseignons différentes informations : staden état biologique, statut, type de contact... ainsi que le nombre d'individus observés.
-- Il est également possible de renseigner l'habitat, avec la classification EUNIS.
-
-Image manquante
+![Firefox 2018 05 03 16 01 09](/uploads/firefox-2018-05-03-16-01-09.png "Firefox 2018 05 03 16 01 09")
 
 - Si besoin, nous pouvons lier une image à l'observation, ces images sont considérées comme étant propriétaire du numérisateur de la donnée, c'est à dire de la personne qui est connecté. L'utilisation d'images dont vous n'êtes pas propriétaire est donc à proscrire.
 
@@ -37,13 +32,10 @@ Image manquante
 
 - Puis nous validons notre observation. 
 
-Une fois que l'observation est enregistrée, une fiche descriptive est disponible résumant l'ensemble des informations renseignées.
+> Une fois que l'observation est enregistrée, une fiche descriptive est disponible résumant l'ensemble des informations renseignées.
+{.is-success}
 
 ![Firefox 2018 05 03 16 06 05](/uploads/firefox-2018-05-03-16-06-05.png "Firefox 2018 05 03 16 06 05")
 
-
-
-
-
-
+## Voir ses données
 
