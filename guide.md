@@ -38,4 +38,4 @@ Une fois la localisation et les information générales renseignées, nous pouvo
 ![Firefox 2018 05 03 16 06 05](/uploads/firefox-2018-05-03-16-06-05.png "Firefox 2018 05 03 16 06 05")
 
 ## Voir ses données
-![Censmall](/uploads/censmall.jpg "Censmall")
+
