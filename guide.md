@@ -68,6 +68,8 @@ Une liste de choix est alors disponible, permettant de filtrer sur de nombreux p
 
 Le bouton **Voir les observation** permet d'afficher les résultats de la recherche. Il est possible de consulter les fiches des observations dans des nouveaux onglets et revenir à la recherche via **Retour au choix**. 
 
-
+![Firefox 2018 05 07 15 19 30](/uploads/firefox-2018-05-07-15-19-30.png "Firefox 2018 05 07 15 19 30")
 
 Il est également possible d'exporter le résultat de sa recherche via le bouton **Exporter**. A l'heure actuelle, uniquement l'export standard fonctionne. Il permet néanmoins de récupérer sous format tableur ou CSV l'ensemble des informations. via la liste déroulante **Choix des champs à exporter**, il est possible de personnaliser son export en sélectionnant les informations à faire apparaitre ou non. 
+
+
