@@ -37,5 +37,26 @@ Une fois la localisation et les information générales renseignées, nous pouvo
 
 ![Firefox 2018 05 03 16 06 05](/uploads/firefox-2018-05-03-16-06-05.png "Firefox 2018 05 03 16 06 05")
 
-## Voir ses données
+## Consulter les données
+
+### Les observations des 30 derniers jours
+
+Via l'onglet **Observations** dans le menu de gauche, il est possible de consulter les observations des 30 derniers jours. ![Firefox 2018 05 07 13 56 42](/uploads/firefox-2018-05-07-13-56-42.png "Firefox 2018 05 07 13 56 42")
+
+Il est possible de filtrer par observatoire en cliquant sur les vignettes les représentant, soit toutes les observations, soit uniquement les siennes, soit uniquement celles des autres. 
+
+![Firefox 2018 05 07 14 30 03](/uploads/firefox-2018-05-07-14-30-03.png "Firefox 2018 05 07 14 30 03")
+
+### Consulter l'ensemble des données
+
+Pour faire une recherche plus précise, il faut passer par l'onglet **Consultation** dans le menu de gauche. ![Firefox 2018 05 07 14 49 22](/uploads/firefox-2018-05-07-14-49-22.png "Firefox 2018 05 07 14 49 22")
+
+Une liste de choix est alors disponible, permettant de filtrer sur de nombreux paramètres comme : 
+- le ou les observatoires (possibilité d'en choisir plusieurs), 
+- la ou les espèces (uniquement les espèces déjà observées sont disponibles), 
+- la ou les communes et/ou sites,
+- une localisation pointée sur la carte (point ou polygone),
+- une date ou une plage de dates,
+- ...
+
 
